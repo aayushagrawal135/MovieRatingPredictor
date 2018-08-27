@@ -1,10 +1,5 @@
 # Movie Rating Predictor
 
-
-
-
-# Movie Rating Predictor
-
 Predicting if a user will like a movie or not, what rating he/she would give to the movie.
 
 Say a set of movies are given along with their genre quantified on a scale of say 5. Depending on a user's rating pattern, a value must be predicted corresponding to a movie that a user may give to that movie.
